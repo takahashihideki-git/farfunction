@@ -1,8 +1,7 @@
 # Node build artifacts
 node_modules
-data
+#data
 
 # Local development
-.env
+#.env
 .DS_Store
-yarn*
