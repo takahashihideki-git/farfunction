@@ -3,6 +3,6 @@ node_modules
 data
 
 # Local development
-#.env
+.env
 .DS_Store
 yarn*
