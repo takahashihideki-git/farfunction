@@ -1,0 +1,8 @@
+{
+  "name": "Far Function",
+  "description": "You can post server side javascript functions as node.js module which you can call in RESTful URL.",
+  "repository": "https://github.com/takahashihideki-git/farfunction.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

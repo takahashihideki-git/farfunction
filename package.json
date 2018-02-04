@@ -2,6 +2,14 @@
   "name": "Far-Function",
   "version": "1.0.0",
   "description": "You can post server side javascript functions as node.js module which you can call in RESTful URL.",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
   "author": {
     "name": "takahashihideki",
     "email": "takahashihideki@gmail.com"
@@ -19,5 +27,14 @@
     "request": "^2.83.0",
     "xml2js": "^0.4.19"
   },
-  "main": "server.js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takahashihideki-git/farfunction.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
