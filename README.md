@@ -1,11 +1,5 @@
-farfunction-openshift-quickstart
+farfunction
 ================================
-
-OpenShift quickstart for "Far Function ( js )".
-
-
-Far Function ( js ) is
-=======================
 
 Far function ( js ) provides a "Web Function" rather than a "Web Application".
 
